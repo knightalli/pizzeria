@@ -6,7 +6,7 @@ import pizFoCh from './image/pizFourCheese.jpg'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App-div">
       <header className="App-header">
         <Link to="/app">
           <img className='logo-main' src={logo} alt="logo" width={329} height={100}/>

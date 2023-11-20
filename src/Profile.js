@@ -5,7 +5,7 @@ import visa from './image/visa.svg'
 
 function Profile() {
     return(
-        <div className='Profile'>
+        <div className='Profile-div'>
             <header className="App-header">
                 <Link to="/app">
                     <img className='logo-main' src={logo} alt="logo" width={329} height={100}/>
